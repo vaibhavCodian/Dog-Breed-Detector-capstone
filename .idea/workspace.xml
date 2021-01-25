@@ -16,15 +16,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef40efbe-229e-4050-9f79-2d0e2d2742a1" name="Default Changelist" comment="version One">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Dog_Breed_Detector.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/app/Dog_Breed_Detector.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML_model_development/Data_model_development.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ML_model_development/Data_model_development.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[PDAID18102704701]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -46,11 +45,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nYWAsSfOWFrIhZlx2t7XZqK0xp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -149,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611610188483</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="version One">
+      <created>1611610384441</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611610384441</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +204,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="version One" />
     <option name="LAST_COMMIT_MESSAGE" value="version One" />
   </component>
@@ -211,5 +221,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="778" y="139" width="1142" height="732" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1611585746147" />
+    <state x="555" y="272" width="800" height="537" key="Vcs.Push.Dialog.v2" timestamp="1611610403232">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="272" width="800" height="537" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1611610403232" />
   </component>
 </project>
