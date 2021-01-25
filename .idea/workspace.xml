@@ -15,9 +15,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef40efbe-229e-4050-9f79-2d0e2d2742a1" name="Default Changelist" comment="version One">
-      <change beforePath="$PROJECT_DIR$/ML_model_development/Data_model_development.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ML_model_development/Data_model_development.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="ef40efbe-229e-4050-9f79-2d0e2d2742a1" name="Default Changelist" comment="version One" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611610384441</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="version One">
+      <created>1611612452483</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611612452483</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,9 +226,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="778" y="139" width="1142" height="732" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1611585746147" />
-    <state x="555" y="272" width="800" height="537" key="Vcs.Push.Dialog.v2" timestamp="1611610403232">
+    <state x="555" y="272" width="800" height="537" key="Vcs.Push.Dialog.v2" timestamp="1611612605332">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="555" y="272" width="800" height="537" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1611610403232" />
+    <state x="555" y="272" width="800" height="537" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1611612605332" />
   </component>
 </project>
